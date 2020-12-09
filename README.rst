@@ -1,7 +1,7 @@
 .. start-include
 
 =======
-ming_p1
+ming_p2
 =======
 
 .. image:: https://travis-ci.org/mingderwang/ming-p1.svg?branch=main

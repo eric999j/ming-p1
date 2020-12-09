@@ -28,7 +28,6 @@ def test(c):
         echo=True,
         pty=pty)
 
-
 @task
 def html(c):
     c.run('make -C docs html', echo=True, pty=pty)
