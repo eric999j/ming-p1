@@ -4,8 +4,8 @@
 ming_p2
 =======
 
-.. image:: https://travis-ci.org/mingderwang/ming-p1.svg?branch=main
-   :target: https://travis-ci.org/mingderwang/ming-p1
+.. image:: https://travis-ci.com/eric999j/ming-p1.svg?branch=main&status=passed
+   :target: https://travis-ci.com/github/eric999j/ming-p1
    :alt: Build status: Linux and OSX
 
 .. image:: https://ci.appveyor.com/api/projects/status/github/mingderwang/ming-p1?branch=main&svg=true
